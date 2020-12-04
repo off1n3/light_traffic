@@ -1,0 +1,23 @@
+{
+  "name": "light_traffic",
+  "version": "1.0.0",
+  "main": "broker.js",
+  "dependencies": {
+    "mqtt": "^4.2.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/off1n3/light_traffic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/off1n3/light_traffic/issues"
+  },
+  "homepage": "https://github.com/off1n3/light_traffic#readme",
+  "description": ""
+}
